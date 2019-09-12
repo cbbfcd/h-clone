@@ -2,7 +2,7 @@
 
 a simple and morden deep clone tool.
 
-because h-clone use `history api` to make a structure date copy, so it only support modern brower env. ie10+ maybe?
+because h-clone use `history api` to make a structure data copy, so it only support modern brower env. ie10+ maybe?
 
 ⚠️：only for the brower env with history api.
 
