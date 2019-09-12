@@ -1,0 +1,26 @@
+{
+  "name": "h-clone",
+  "version": "1.0.0",
+  "description": "a simple and morden deep clone tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbbfcd/h-clone.git"
+  },
+  "keywords": [
+    "deepclone",
+    "history",
+    "clone",
+    "structure-clone",
+    "immutable"
+  ],
+  "author": "波比小金刚 (cbbfcd)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbbfcd/h-clone/issues"
+  },
+  "homepage": "https://github.com/cbbfcd/h-clone#readme"
+}
