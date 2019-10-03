@@ -1,5 +1,7 @@
 # h-clone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cbbfcd/h-clone.svg)](https://greenkeeper.io/)
+
 a simple and morden deep clone tool.
 
 because h-clone use `history api` to make a structure data copy, so it only support modern brower env. ie10+ maybe?
